@@ -1,2 +1,3 @@
-"I want to learn. I have greatfull motivation to become lord of js"
+"I want to learn. I have greatfull motivation to become lord of JS"
 console.log("Hello, World!")
+WEB
