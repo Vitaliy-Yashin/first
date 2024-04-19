@@ -1,1 +1,2 @@
-"I want to learn. I have greatfull motivation"
+"I want to learn. I have greatfull motivation to become lord of js"
+console.log("Hello, World!")
